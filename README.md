@@ -13,7 +13,8 @@ El galaga es un juego arcade creado en el año 1981.
 Se destacó en su epoca por su innovadora mecanica de captura de naves, esta fue lo que hizo que el juego fuera tan exitoso.
 Es considerado uno de los juegos mas caracteristicos de la epoca y del genero espacial.
 
-El objetivo en el juego del jugador es tra
+El objetivo en el juego del jugador es conseguir la mayor cantidad de puntos posibles.
+En realidad, el juego no es por niveles si no incremental, se juega por etapas. En cada etapa aparecen nuevos enemigos, posiblemente mas fuertes, bloques mas numerosos y jefes finales en etapas, esepecificamente, en nuestro caso, las multiplo de 5.
 
 Elegimos este juego sobre todo porque es uno de los que mas nos llamaba la atencion programar porque ya todos los miembros hemos probado o visto jugar versiones de este juego.
 
