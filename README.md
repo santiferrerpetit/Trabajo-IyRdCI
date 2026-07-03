@@ -37,5 +37,8 @@ El juego tiene una resolucion vertical, en la cual nos encontramos en un problem
 La resolucion original de la pantalla es 320x240. Lo que es horizontal. 
 El profe nos recomienda hacer el juego en 240x320 y el va a intentar que se pueda rotar la pantalla virtualmente y en el peor de los casos sera rotarla fisicamente.
 
+## Sprites
+
+<img width="320" height="240" alt="spritesheet" src="https://github.com/user-attachments/assets/b1c37067-82d2-44c1-9760-c83df7d92443" />
 
 
